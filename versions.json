@@ -1,0 +1,323 @@
+"sunfish": {
+    "label": "Pixel 4a",
+    "type": "phone",
+    "ota": [],
+    "factory": [
+      {
+        "version": "10.0.0 (QD4A.200317.024.A1, May 2020, JP carriers and Verizon)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-qd4a.200317.024.a1-factory-2e462cf3.zip",
+        "sha256": "2e462cf35f699683bd65941db1f80ba3b7b6a7da9af496c33bd188d488a81d7a",
+        "date": "200317"
+      },
+      {
+        "version": "10.0.0 (QD4A.200317.027, May 2020)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-qd4a.200317.027-factory-f137d3d1.zip",
+        "sha256": "f137d3d1efd95c2f34f67c140e3c3907b0d8db11a932ee7bc9883082901440dd",
+        "date": "200317"
+      },
+      {
+        "version": "10.0.0 (QD4A.200805.001, Aug 2020, JP carriers and Verizon)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-qd4a.200805.001-factory-99540370.zip",
+        "sha256": "99540370fd2b7c7194b3b23289b5dc3b35a737e6d21c12df9d44148b111f3c98",
+        "date": "200805"
+      },
+      {
+        "version": "10.0.0 (QD4A.200805.003, Aug 2020)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-qd4a.200805.003-factory-fac7c08d.zip",
+        "sha256": "fac7c08d3d4cb92078fbcdbcc7e80fc4c438612a1a004d3d12814f51928458f3",
+        "date": "200805"
+      },
+      {
+        "version": "11.0.0 (RP1A.200720.010, Sep 2020, EMEA and SG carriers)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rp1a.200720.010-factory-d626956b.zip",
+        "sha256": "d626956b724b8eaff0c0021f6207661889d566610e81f323f11f831630619165",
+        "date": "200720"
+      },
+      {
+        "version": "11.0.0 (RP1A.200720.011, Sep 2020, All carriers except EMEA and SG)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rp1a.200720.011-factory-1a38c5a6.zip",
+        "sha256": "1a38c5a683d79c06b454f4b88afec982aca33b67c474fdc0c2542408a0367f3a",
+        "date": "200720"
+      },
+      {
+        "version": "11.0.0 (RP1A.201005.006, Oct 2020)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rp1a.201005.006-factory-d80cc80f.zip",
+        "sha256": "d80cc80f37263fef127003a21e29f6887d33d8f068d153a0c1f0acbaa61544b2",
+        "date": "201005"
+      },
+      {
+        "version": "11.0.0 (RP1A.201105.002, Nov 2020)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rp1a.201105.002-factory-da295a97.zip",
+        "sha256": "da295a978e1fb92f4eba9140bcc0a38c3a71a47315d5f3c1913b6fbf5aea33fe",
+        "date": "201105"
+      },
+      {
+        "version": "11.0.0 (RQ1A.201205.008, Dec 2020)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq1a.201205.008-factory-46217d49.zip",
+        "sha256": "46217d49025b8c0bf80cb7b6a94765173ac08b3112c8c47b94ffe53595343aed",
+        "date": "201205"
+      },
+      {
+        "version": "11.0.0 (RQ1A.210105.002, Jan 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq1a.210105.002-factory-0d4aed85.zip",
+        "sha256": "0d4aed85bafc40f29a83a465acb5ab4281060b31643faaf33d5c7c3dc62045c6",
+        "date": "210105"
+      },
+      {
+        "version": "11.0.0 (RQ1A.210205.004, Feb 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq1a.210205.004-factory-afba4501.zip",
+        "sha256": "afba4501f01612a2a4a9b97725b53ebbe0db1c2f5352ff139ea5e5fb2a954ca2",
+        "date": "210205"
+      },
+      {
+        "version": "11.0.0 (RQ2A.210305.006, Mar 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq2a.210305.006-factory-76e89004.zip",
+        "sha256": "76e8900417212dfb2aad35c2bdc78ff78b783aba4ac87bdb5951e04138be0797",
+        "date": "210305"
+      },
+      {
+        "version": "11.0.0 (RQ2A.210305.007, Mar 2021, Virgin/UK only)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq2a.210305.007-factory-87ad45be.zip",
+        "sha256": "87ad45be2000446dfa7283bf498e840d6403c39378fe7bd2619ddddd9fbf92b0",
+        "date": "210305"
+      },
+      {
+        "version": "11.0.0 (RQ2A.210405.005, Apr 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq2a.210405.005-factory-ab0ba039.zip",
+        "sha256": "ab0ba039ae94f4102545b431d9ed6e4919af3ccdefe8901c8b9fd8defac3c3a3",
+        "date": "210405"
+      },
+      {
+        "version": "11.0.0 (RQ2A.210505.002, May 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq2a.210505.002-factory-30079813.zip",
+        "sha256": "30079813c79486966647068496afdf239c5dd0f4db7b26ecfc6a43660db5094a",
+        "date": "210505"
+      },
+      {
+        "version": "11.0.0 (RQ3A.210605.005, Jun 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq3a.210605.005-factory-be541467.zip",
+        "sha256": "be5414679b4305e75d1e21180ff525c4e3527bf593da57997d6ff618d992ce33",
+        "date": "210605"
+      },
+      {
+        "version": "11.0.0 (RQ3A.210705.001, Jul 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq3a.210705.001-factory-51f6d2ad.zip",
+        "sha256": "51f6d2ad6ebc58241612dfbd8e48082ceb65071284aba9037d7d43356c4a05ff",
+        "date": "210705"
+      },
+      {
+        "version": "11.0.0 (RQ3A.210805.001.A1, Aug 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq3a.210805.001.a1-factory-551be12c.zip",
+        "sha256": "551be12c34905b4862a86adfb2ceba053c1cb89904bb882bfc9a85b59e0dd135",
+        "date": "210805"
+      },
+      {
+        "version": "11.0.0 (RQ3A.210905.001, Sep 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq3a.210905.001-factory-c4484e41.zip",
+        "sha256": "c4484e419adc95e9d12ce8318202056d82fd1719f86aa7f34f6330471986d6d9",
+        "date": "210905"
+      },
+      {
+        "version": "11.0.0 (RQ3A.211001.001, Oct 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-rq3a.211001.001-factory-5d6da39f.zip",
+        "sha256": "5d6da39f4611f22eb6a1e75dd5beeecb7734ae249fc8f9e725f7aa8e94100957",
+        "date": "211001"
+      },
+      {
+        "version": "12.0.0 (SP1A.210812.015, Oct 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sp1a.210812.015-factory-5a1091a3.zip",
+        "sha256": "5a1091a354a39d423a80d2079fe410eb3bf9014e589a26d0463582b52922a2c5",
+        "date": "210812"
+      },
+      {
+        "version": "12.0.0 (SP1A.210812.016.A1, Oct 2021, Verizon)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sp1a.210812.016.a1-factory-52dce861.zip",
+        "sha256": "52dce8618ee7c7694d4f21be16e13f452849bbf82720e847ba79ab7479fb7512",
+        "date": "210812"
+      },
+      {
+        "version": "12.0.0 (SP1A.211105.002, Nov 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sp1a.211105.002-factory-db7c9cbd.zip",
+        "sha256": "db7c9cbd3b214b44f3333265c2db3a13928e69e54e2a520dc0ab2ea848b81dcd",
+        "date": "211105"
+      },
+      {
+        "version": "12.0.0 (SP1A.211105.002.A1, Nov 2021, Verizon, Verizon MVNOs)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sp1a.211105.002.a1-factory-51fae4e8.zip",
+        "sha256": "51fae4e81a4e069863ec18782b414f4eb888348bc13f9be5223e9fbc8c771247",
+        "date": "211105"
+      },
+      {
+        "version": "12.0.0 (SP1A.211105.004, Nov 2021, Telstra, Optus, Vodafone AU)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sp1a.211105.004-factory-d1c4cdf7.zip",
+        "sha256": "d1c4cdf7df772387007526921a1d2467ee469d1f3a6f3e1fe731ae13d222eee3",
+        "date": "211105"
+      },
+      {
+        "version": "12.0.0 (SQ1A.211205.008, Dec 2021)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sq1a.211205.008-factory-2a1f8ab3.zip",
+        "sha256": "2a1f8ab325d2af3567e27a553818116b1d67fede59d4274d06e47ee4152cc0a2",
+        "date": "211205"
+      },
+      {
+        "version": "12.0.0 (SQ1A.220105.002, Jan 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sq1a.220105.002-factory-8f5138d8.zip",
+        "sha256": "8f5138d8da3c16117e771f80679938ba97824126c6859b15c1c909a38075fd24",
+        "date": "220105"
+      },
+      {
+        "version": "12.0.0 (SQ1A.220205.002, Feb 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sq1a.220205.002-factory-9cce6079.zip",
+        "sha256": "9cce60790c951532e8085a8ebac42e258ee7c84353c8d198035dcb424ef451fd",
+        "date": "220205"
+      },
+      {
+        "version": "12.1.0 (SP2A.220305.012, Mar 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sp2a.220305.012-factory-f4a9c665.zip",
+        "sha256": "f4a9c665b3614ef4ad84e0b5cb9d4207837288c72430974dcbdf81d6ba460f5c",
+        "date": "220305"
+      },
+      {
+        "version": "12.1.0 (SP2A.220405.003, Apr 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sp2a.220405.003-factory-1efe375b.zip",
+        "sha256": "1efe375bc03b534cdf5bbe7a0124c141169c3ab1b95aa008149928c5aecfa569",
+        "date": "220405"
+      },
+      {
+        "version": "12.1.0 (SP2A.220505.002, May 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sp2a.220505.002-factory-2ca902f1.zip",
+        "sha256": "2ca902f10574fa45806c598e8cf10584aa2dc3dd0fb1cf75882e50426187221c",
+        "date": "220505"
+      },
+      {
+        "version": "12.1.0 (SQ3A.220605.009.A1, Jun 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sq3a.220605.009.a1-factory-7d440084.zip",
+        "sha256": "7d440084e8672cab1f283bea308c69387883ab7af660de4cc018312f483d2daf",
+        "date": "220605"
+      },
+      {
+        "version": "12.1.0 (SQ3A.220705.003.A1, Jul 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-sq3a.220705.003.a1-factory-c1963f71.zip",
+        "sha256": "c1963f71ccbe9a393a16f98f53b9504620e298ea50353b0e347c7f892ff56d02",
+        "date": "220705"
+      },
+      {
+        "version": "13.0.0 (TP1A.220624.014, Aug 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tp1a.220624.014-factory-0d658770.zip",
+        "sha256": "0d6587706e00f53da15255d36c8a9306c144de6a2c05af0dc6304e9b73de82fe",
+        "date": "220624"
+      },
+      {
+        "version": "13.0.0 (TP1A.220905.004, Sep 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tp1a.220905.004-factory-b55d9ef4.zip",
+        "sha256": "b55d9ef42e487dc1cf787e24abe402d6083ca3e785a7eecf4b90fd42ea9f1d9f",
+        "date": "220905"
+      },
+      {
+        "version": "13.0.0 (TP1A.221005.002, Oct 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tp1a.221005.002-factory-ce14ad3c.zip",
+        "sha256": "ce14ad3cb569d75b9db381ca075fee374bc7f72b7c3c65a6c01f23fec9794361",
+        "date": "221005"
+      },
+      {
+        "version": "13.0.0 (TP1A.221105.002, Nov 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tp1a.221105.002-factory-4fcff485.zip",
+        "sha256": "4fcff485a0614555a436a65d6a12b83cdfaf9f8f4da502e7b3a94c061279042b",
+        "date": "221105"
+      },
+      {
+        "version": "13.0.0 (TQ1A.221205.011, Dec 2022)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq1a.221205.011-factory-05560ded.zip",
+        "sha256": "05560ded5d018dcf4584a6292b8ff81e8de208a9eccc581968e46ee82ddccab5",
+        "date": "221205"
+      },
+      {
+        "version": "13.0.0 (TQ1A.221205.011.B1, Dec 2022, Canada)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq1a.221205.011.b1-factory-a5eb8073.zip",
+        "sha256": "a5eb8073d3d87fb03ffee0c47164e9e9513361ab5e6e3c1d8e2faeea866cf701",
+        "date": "221205"
+      },
+      {
+        "version": "13.0.0 (TQ1A.230105.001, Jan 2023)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq1a.230105.001-factory-c8465a28.zip",
+        "sha256": "c8465a2837e4de976ace4ac2038d50140320ce4f2e77805f7602c2d4b26faba3",
+        "date": "230105"
+      },
+      {
+        "version": "13.0.0 (TQ1A.230105.001.B1, Jan 2023, Canada)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq1a.230105.001.b1-factory-e32586ef.zip",
+        "sha256": "e32586efe7461c1ca3332c54c7d2ea28d66d9f452020e93974776e68d515736c",
+        "date": "230105"
+      },
+      {
+        "version": "13.0.0 (TQ1A.230205.001.B2, Feb 2023, Canada)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq1a.230205.001.b2-factory-6fc00894.zip",
+        "sha256": "6fc00894a91a427d098086d818fdb86522eb543facd0ac1703b061939bf0982c",
+        "date": "230205"
+      },
+      {
+        "version": "13.0.0 (TQ1A.230205.002, Feb 2023)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq1a.230205.002-factory-2d0ec997.zip",
+        "sha256": "2d0ec997f54cd83a0b4447a2fcf032616a615528ac93d5b30fbf3a04bb481585",
+        "date": "230205"
+      },
+      {
+        "version": "13.0.0 (TQ2A.230305.008.C1, Mar 2023)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq2a.230305.008.c1-factory-97732c43.zip",
+        "sha256": "97732c431378d70382dc5bee7af00033a9d849fc34d90d77223eb370df43fc10",
+        "date": "230305"
+      },
+      {
+        "version": "13.0.0 (TQ2A.230405.003, Apr 2023)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq2a.230405.003-factory-1cb87bfb.zip",
+        "sha256": "1cb87bfbd4a89f14e922564dbda57fc94ab72bce8cc119aa58bdd5295e5b1ef2",
+        "date": "230405"
+      },
+      {
+        "version": "13.0.0 (TQ2A.230405.003.B2, Apr 2023, Telus)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq2a.230405.003.b2-factory-18da8594.zip",
+        "sha256": "18da85940847ddc97ae1cd0d1f4a326d588d0a52262425e2e1906fd06737eb5e",
+        "date": "230405"
+      },
+      {
+        "version": "13.0.0 (TQ2A.230505.002, May 2023)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq2a.230505.002-factory-9c73277b.zip",
+        "sha256": "9c73277b5dcfa4e022b11290e1215208123ee5f08b18aab0e8eae09d3b6d4851",
+        "date": "230505"
+      },
+      {
+        "version": "13.0.0 (TQ3A.230605.011, Jun 2023)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq3a.230605.011-factory-e7734214.zip",
+        "sha256": "e77342146259b8dbefc5b3ba729851a640755f960caf5e76ad658868e4a92385",
+        "date": "230605"
+      },
+      {
+        "version": "13.0.0 (TQ3A.230705.001, Jul 2023)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq3a.230705.001-factory-bd871347.zip",
+        "sha256": "bd87134788bcca09bff2b3100106ffaa843850603f835b08c9468de488584973",
+        "date": "230705"
+      },
+      {
+        "version": "13.0.0 (TQ3A.230805.001, Aug 2023)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq3a.230805.001-factory-b3d86cc6.zip",
+        "sha256": "b3d86cc61452d79b7e67426fe40594ede549ead3ab20d7729caf1a1dfbd8e107",
+        "date": "230805"
+      },
+      {
+        "version": "13.0.0 (TQ3A.230805.001.A2, Aug 2023, Verizon, Verizon MVNOs)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq3a.230805.001.a2-factory-cff2a83b.zip",
+        "sha256": "cff2a83bd71084982a29d244a91426abd43542c329da7964fa85206aa74109ac",
+        "date": "230805"
+      },
+      {
+        "version": "13.0.0 (TQ3A.230805.001.S1, Nov 2023)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq3a.230805.001.s1-factory-82902ea9.zip",
+        "sha256": "82902ea98c80f1a22706279a30d2bc46aa55cbe60703c9a02ba043bd052c6d99",
+        "date": "230805"
+      },
+      {
+        "version": "13.0.0 (TQ3A.230805.001.S2, Jan 2025)",
+        "url": "https://dl.google.com/dl/android/aosp/sunfish-tq3a.230805.001.s2-factory-aafe4e24.zip",
+        "sha256": "aafe4e241ef283c6798166c2ac84181a01a7e92987c65a53503e175a4da897fd",
+        "date": "230805"
+      }
