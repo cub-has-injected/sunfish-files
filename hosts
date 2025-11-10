@@ -1,9 +1,8 @@
 # ==========================================================
-# hi, that is hosts file to block google ota 🐈‍⬛
-#
-# title: sunfish-hosts
-# date: 23 july 2025 18:54 (utc)
-# source: https://github.com/cub-has-injected/sunfish-hosts/
+# hi, that is hosts file to block google ota for older stock roms (10/11/12/13) 🐈‍⬛
+# title: sunfish-files
+# date: 10 november 2025 21:05 (UTC)
+# source: https://github.com/cub-has-injected/sunfish-files/
 # ==========================================================
 0.0.0.0 ota.googlezip.net
 0.0.0.0 ota-cache1.googlezip.net
